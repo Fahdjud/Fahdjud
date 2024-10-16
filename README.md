@@ -1,4 +1,4 @@
-[My Image](Fahdjud/Fahdjud/Header.png)
+![Header](Header.png)
 
 ## Hi there! 👋 I’m Fahdjud
 
