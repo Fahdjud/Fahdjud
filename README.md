@@ -6,19 +6,19 @@ I'm a passionate Computer Science student at the University of Jeddah, constantl
 
 ---
 
-### Currently Learning
+ - ### Currently Learning 
 Advanced algorithms, machine learning, and cloud computing.
 
-### Skills
+- ### Skills
 Python, C, HTML/CSS, JavaScript, SQL.
 
-### Projects
-*Coming soon...*
+- ### Projects
+*Coming soon...* 
 
-### Portfolio
-*Coming soon...*
+- ### Portfolio
+*Coming soon...* 
 
-### How to Reach Me
+### 📧 How to Reach Me 
 - **Email:** [Fahd.judaibi@gmail.com](mailto:Fahd.judaibi@gmail.com)
 - **LinkedIn:** [Fahd Aljudaibi](https://www.linkedin.com/in/fahd-aljudaibi)
 - **Twitter/X:** [@Fahadjud](https://x.com/Fahadjud)
