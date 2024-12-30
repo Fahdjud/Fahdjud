@@ -16,7 +16,7 @@ Python, C, HTML/CSS, JavaScript, SQL.
 *Coming soon...* 
 
 - ### Portfolio
-*Coming soon...* 
+[Visit My Website](https://fahdjud.com)
 
 ### 📧 How to Reach Me 
 - **Email:** [Fahd.judaibi@gmail.com](mailto:Fahd.judaibi@gmail.com)
