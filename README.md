@@ -7,10 +7,10 @@ I'm a passionate Computer Science student at the University of Jeddah, constantl
 ---
 
  - ### Currently Learning 
-Advanced algorithms, machine learning, and cloud computing.
+Web Devolopment, Google Cloud, CS50.
 
 - ### Skills
-Python, C, HTML/CSS, JavaScript, SQL.
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,gcp,git,bash,sqlite)](https://skillicons.dev)
 
 - ### Projects
 *Coming soon...* 
@@ -28,3 +28,5 @@ Python, C, HTML/CSS, JavaScript, SQL.
 **⚡ Fun Fact**
 
 I'm also a graphic designer and 3D modeler, and I love combining my technical skills with my creative passions.
+
+<a href="https://www.buymeacoffee.com/fahdjud"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=fahdjud&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
