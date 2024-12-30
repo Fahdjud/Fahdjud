@@ -16,6 +16,8 @@ Web Devolopment, Google Cloud, CS50.
 *Coming soon...* 
 
 - ### Portfolio
+![website](Website.png)
+
 [Visit My Website](https://fahdjud.com)
 
 ### 📧 How to Reach Me 
