@@ -7,13 +7,14 @@ I'm a passionate Computer Science student at the University of Jeddah, constantl
 ---
 
  - ### Currently Learning 
-Web Devolopment, Google Cloud, CS50.
+Web Devolopment, Google Cloud.
 
 - ### Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,gcp,git,bash,sqlite)](https://skillicons.dev)
 
 - ### Projects
-*Coming soon...* 
+[Gilly Converter](https://cs50.fahdjud.com)]
+
 
 - ### Portfolio
 ![website](Website.png)
