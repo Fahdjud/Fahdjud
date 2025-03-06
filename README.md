@@ -10,10 +10,10 @@ I'm a passionate Computer Science student at the University of Jeddah, constantl
 Web Devolopment, Google Cloud.
 
 - ### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,gcp,git,bash,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,c,flask,bootstrap,gcp,git,bash,sqlite)](https://skillicons.dev)
 
 - ### Projects
-[Gilly Converter](https://cs50.fahdjud.com)]
+[Gilly Converter](https://cs50.fahdjud.com)
 
 
 - ### Portfolio
